@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CricLiveScore</string>
+    <string name="no_series_found">No Series Found</string>
+    <string name="no_internet">No Internet! Please Check Your Connection.</string>
+</resources>
